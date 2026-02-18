@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Samarth Tripathi 👋
 
-<!--
-**samarthtripathi12/samarthtripathi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Interdisciplinary Computational Scientist
+I build simulations and AI models to explore the intersection of **Theoretical Physics**, **Deep Learning**, and **Optimization**.
 
-Here are some ideas to get you started:
+- 🌌 **Current Focus:** Black Hole Light Bending & Gravitational Wave Denoising (LIGO).
+- 🛠 **Tech Stack:** Python, C++, PyTorch, MATLAB, Stochastic Modeling.
+- 🎓 **Goal:** Advancing computational methods to solve complex astrophysical and economic problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Flagship Projects
+*   **[Black Hole Ray-Tracer](https://samarthtripathi12.github.io):** Visualizing photon paths in curved spacetime.
+*   **[Neural-NN-Scratch](https://samarthtripathi12.github.io):** Implementing deep learning architectures without high-level APIs.
+*   **[LIGO-Denoise](https://samarthtripathi12.github.io):** Signal processing for gravitational wave detection.
+
+[portfolio](https://samarthtripathi12.github.io) | [email](mailto:samarth.tripathi.edu@gmail.com)
